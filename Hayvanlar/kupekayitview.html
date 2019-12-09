@@ -1,0 +1,67 @@
+<html>
+<head> </head>
+<body>
+<div class="baslik" > Kupe Kayit Paneli</div>
+
+    <form action="kupekayitbg.php" method="POST">
+	<center>
+	<table border="1">
+	<tr>
+	<th>
+	<p>Kupe ID   </th>   <th><input type="text"  name="kupe_id"  />    </p></th>
+	</tr>
+	<tr>
+	<th>
+<p>Hayvan Cinsi  </th> <th>       <select name="hayvan_cins">
+    <option value="yerli">Yerli</option>
+    <option value="simental">Simental</option>
+    <option value="yer">Yerli</option>
+    <option value="holstein">Holstein</option>
+    <option value="angus">Angus</option>
+    <option value="limusin">Limusin</option>
+    <option value="manda">Manda</option>
+    <option value="hereford">Hereford</option>
+    
+  </select>     </p></th>
+</tr>
+<tr>
+<th>
+Hayvan Gebelik Durumu    </th> <th>  
+ <input type="radio" name="gebelik" value="1"> Evet
+<input type="radio" name="gebelik" value="0"> Hayir<br>
+
+
+
+
+ </th></tr>
+<tr>
+<th>
+Hayvan Toplam Buzaga Sayisi  </th><th>     <select name="buzaga_sayi">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+    
+  </select>     </th>
+<tr>
+<th>
+Hayvan Kilo      </th><th>     <input  style="margin-left:42px; " type="text" name="hayvan_kilo" />     </th></tr>
+<tr><th>
+ <p> <input  type="submit" value="Kaydet"  />   </p></th></tr>
+	</table>
+</center>
+ 
+ </form> 
+
+
+ </div>
+
+</body>
+</html>
+

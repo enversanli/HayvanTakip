@@ -1,0 +1,26 @@
+Kupe Numarasi : 45577  --- Cinsi : hereford --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 3452  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 324344  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 397
+Kupe Numarasi : 455755  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 1500
+Kupe Numarasi : 554122  --- Cinsi : simental --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 550
+Kupe Numarasi : 4415  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 620
+Kupe Numarasi : 6669  --- Cinsi : 0 --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 0 --- Satis Tarihi  : 2019-05-02  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 10000  --- Satilan Kisi veya Kurum  : 
+Kupe Numarasi : 55884  --- Cinsi : angus --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 397 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 10000  --- Satilan Kisi veya Kurum  : 
+Kupe Numarasi : 1123  --- Cinsi : holstein --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 671 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 7500  --- Satilan Kisi veya Kurum  : 
+Kupe Numarasi : 55884  --- Cinsi : angus --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 397 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 5500  --- Satilan Kisi veya Kurum  : 
+Kupe Numarasi : 6669  --- Cinsi : 0 --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 0 --- Satis Tarihi  : 2019-05-02  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 10000  --- Satilan Kisi veya Kurum  : enka grup
+Kupe Numarasi : 55884  --- Cinsi : angus --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 397 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 10000  --- Satilan Kisi veya Kurum  : maraba
+Kupe Numarasi : 1123  --- Cinsi : holstein --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 671 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 7500  --- Satilan Kisi veya Kurum  : kasap koyum
+Kupe Numarasi : 55884  --- Cinsi : angus --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 397 --- Satis Tarihi  : 2019-05-21  ---  Satis Sebebi  : genel  ---  Satis Fiyati  : 5500  --- Satilan Kisi veya Kurum  : bakara besi
+Kupe Numarasi : 45577  --- Cinsi : hereford --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 3452  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 324344  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 397
+Kupe Numarasi : 455755  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 1500
+Kupe Numarasi : 554122  --- Cinsi : simental --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 550
+Kupe Numarasi : 4415  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 620
+Kupe Numarasi : 45577  --- Cinsi : hereford --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 3452  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 450
+Kupe Numarasi : 324344  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 397
+Kupe Numarasi : 455755  --- Cinsi : yerli --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 1500
+Kupe Numarasi : 554122  --- Cinsi : simental --- Cinsiyet : Dişi --- Sahip Oldugu Buzaga Sayisi : 2 --- Kilo : 550
+Kupe Numarasi : 4415  --- Cinsi : limusin --- Cinsiyet : Erkek --- Sahip Oldugu Buzaga Sayisi : 0 --- Kilo : 620

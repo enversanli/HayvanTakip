@@ -1,0 +1,378 @@
+
+
+.responsive body
+{
+   min-width: 240px;
+}
+  
+.responsive .enversanli-content-layout img,
+.responsive .enversanli-content-layout video
+{
+   max-width: 100%;
+   height: auto !important;
+}
+
+.responsive.responsive-phone .enversanli-content-layout img 
+{
+   float: none !important;
+}
+    
+.responsive .enversanli-content-layout .enversanli-sidebar0, 
+.responsive .enversanli-content-layout .enversanli-sidebar1, 
+.responsive .enversanli-content-layout .enversanli-sidebar2 
+{
+   width: auto !important;
+}
+    
+.responsive .enversanli-content-layout, 
+.responsive .enversanli-content-layout-row, 
+.responsive .enversanli-layout-cell 
+{
+   display: block;
+}
+    
+.responsive .image-caption-wrapper 
+{
+   width: auto;
+}
+
+.responsive.responsive-tablet .enversanli-vmenublock,
+.responsive.responsive-tablet .enversanli-block
+{
+   margin-left: 1%;
+   margin-right: 1%;
+   width: 48%;
+   float: left;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.responsive .enversanli-responsive-embed 
+{
+   position: relative;
+   padding-bottom: 56.25%;
+
+	height: 0;
+}
+
+.responsive .enversanli-responsive-embed iframe,
+.responsive .enversanli-responsive-embed object,
+.responsive .enversanli-responsive-embed embed
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+.responsive .enversanli-header 
+{
+   width: auto;
+   height: auto;
+   min-height: 100px;
+   min-width: 1%;
+   background-position: center center !important;
+   background-size: cover !important;
+   background-repeat: repeat !important;
+}
+
+.responsive .enversanli-header .enversanli-headline, 
+.responsive .enversanli-header .enversanli-slogan 
+{
+   display: block !important;
+   top: 0 !important;
+   left: 0 !important;
+   margin: 2% !important;
+}
+    
+.responsive .enversanli-header .enversanli-headline a, 
+.responsive .enversanli-header .enversanli-slogan 
+{
+   white-space: normal !important;
+}
+    
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock 
+{
+   padding: 2% !important;
+   margin: 2% !important;
+   line-height: normal;
+   background-image: none;
+   background-color: rgba(127, 127, 127, 0.7);
+   color: #eee !important;
+   display: none;
+   top: auto;
+   left: auto;
+   width: auto;
+   height: auto;
+}
+
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock *,
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock a:hover,
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock a:visited,
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock a:link 
+{
+   color: #eee !important;
+}
+    
+.responsive .enversanli-header .enversanli-shapes .enversanli-textblock>div 
+{
+   display: none;
+   top: auto;
+   left: auto;
+   width: auto;
+   height: auto;
+   padding: 0 !important;
+}
+
+.responsive .enversanli-header .enversanli-shapes,
+.responsive .enversanli-header .enversanli-shapes *
+{
+   position: relative;
+   text-align: center;
+   -webkit-transform: none !important;
+   -moz-transform: none !important;
+   -o-transform: none !important;
+   -ms-transform: none !important;
+   transform: none !important;
+}
+
+.responsive .enversanli-header #enversanli-flash-area,
+.responsive .enversanli-header .enversanli-shapes>*
+{
+   display: none;
+}
+
+.responsive #enversanli-header-bg 
+{
+   background-position: center center !important;
+   background-size: cover !important;
+   background-repeat: repeat !important;
+}
+
+
+.responsive .enversanli-shapes~.enversanli-textblock
+{
+   position: relative !important;
+   display: block !important;
+   margin: 1% auto !important;
+   width: 75% !important;
+   top: auto !important;
+   right: auto !important;
+   bottom: auto !important;
+   left: auto !important;
+}
+
+
+.responsive nav.enversanli-nav,
+.responsive .enversanli-nav-inner
+{
+   width: auto !important;
+   position: relative !important;
+   top: auto !important;
+   left: auto !important;
+   right: auto !important;
+   bottom: auto !important;
+   margin-top: 0;
+   margin-bottom: 0;
+   min-width: 0;
+}
+
+.responsive nav.enversanli-nav
+{
+   min-width: 1%;
+   margin-right: 1% !important;
+   margin-left: 1% !important;
+}
+
+.responsive .responsive-nav 
+{
+   padding-left: 0;
+   padding-right: 0;
+}
+
+
+.responsive .responsive-nav ul.enversanli-hmenu 
+{
+   display: block;
+   float: none;
+   text-align: center;
+}
+
+
+.responsive .responsive-nav ul.enversanli-hmenu li
+{
+   float: none;
+}
+  
+
+.responsive .responsive-nav ul.enversanli-hmenu>li:first-child, 
+.responsive .responsive-nav ul.enversanli-hmenu>li:last-child, 
+.responsive .responsive-nav ul.enversanli-hmenu>li
+{
+   margin-left: 0;
+   margin-right: 0;
+}
+ 
+
+.responsive .responsive-nav ul.enversanli-hmenu>li:before
+{
+   display: none;
+}
+
+
+.responsive .responsive-nav ul.enversanli-hmenu a
+{
+   margin-top: 1px !important;
+   margin-bottom: 1px !important;
+   text-align: center;
+   height: auto;
+   white-space: normal;
+}
+
+.responsive .responsive-nav ul.enversanli-hmenu>li:first-child>a
+{
+   margin-top: 0 !important;
+}
+
+.responsive .responsive-nav ul.enversanli-hmenu>li:last-child>a
+{
+   margin-bottom: 0 !important;
+}
+
+
+.responsive .responsive-nav .ext, 
+.responsive .responsive-nav ul.enversanli-hmenu>li>ul, 
+.responsive .responsive-nav ul.enversanli-hmenu>li>ul>li
+{
+   width: auto !important;
+}
+
+
+.responsive .responsive-nav ul.enversanli-hmenu ul
+{
+   left: auto !important;
+   right: auto !important;
+   top: auto !important;
+   bottom: auto !important;
+   display: none !important;
+   position: relative !important;
+   visibility: visible !important;
+}
+
+.responsive .responsive-nav ul.enversanli-hmenu>li>ul>li:first-child:after 
+{
+   display: none;
+}
+.responsive .responsive-nav ul.enversanli-hmenu ul a
+{
+   padding-left: 4% !important;
+}
+.responsive .responsive-nav ul.enversanli-hmenu ul ul a
+{
+   padding-left: 6% !important;
+}
+.responsive .responsive-nav ul.enversanli-hmenu ul ul ul a
+{
+   padding-left: 8% !important;
+}
+.responsive .responsive-nav ul.enversanli-hmenu ul ul ul ul a
+{
+   padding-left: 10% !important;
+}
+.responsive .responsive-nav ul.enversanli-hmenu ul ul ul ul ul a
+{
+   padding-left: 12% !important;
+}
+  
+.responsive .responsive-nav ul.enversanli-hmenu>li>ul
+{
+   padding: 5px;
+}
+  
+.responsive .responsive-nav ul.enversanli-hmenu>li>ul:before
+{
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+}
+
+.responsive .enversanli-sheet
+{
+   width: auto !important;
+   min-width: 240px !important;
+   max-width: none;
+   margin-right: 1% !important;
+   margin-left: 1% !important;
+   margin-top: 1% !important;
+}
+
+#enversanli-resp {
+   display: none;
+}
+
+@media all and (max-width: 899px)
+{
+    #enversanli-resp, #enversanli-resp-t { display: block; }
+    #enversanli-resp-m { display: none; }
+}
+
+@media all and (max-width: 480px)
+{
+    #enversanli-resp, #enversanli-resp-m { display: block; }
+    #enversanli-resp-t { display: none; }
+}
+
+.responsive .enversanli-content-layout, 
+.responsive .enversanli-content-layout-row, 
+.responsive .enversanli-layout-cell 
+{
+   display: block;
+}
+
+.responsive .enversanli-layout-cell 
+{
+   width: auto !important;
+   height: auto !important;
+   border-right-width: 0 !important;
+   border-left-width: 0 !important;
+   border-radius: 0 !important;
+}
+
+.responsive .enversanli-content-layout:after, 
+.responsive .enversanli-content-layout-row:after, 
+.responsive .enversanli-layout-cell:after 
+{
+   content: ".";
+   display: block;
+   height: 0;
+   clear: both;
+   visibility: hidden;
+}
+
+.responsive .enversanli-post
+{
+   border-radius: 0;
+}
+
+.responsive .enversanli-footer-inner
+{
+   width: auto;
+   padding: 2% !important;
+}
+.responsive .enversanli-footer
+{
+   margin-top: 1%;
+}
+
+.responsive .responsive-tablet-layout-cell 
+{
+   width: 50% !important;
+   float: left;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+

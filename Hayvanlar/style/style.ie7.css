@@ -1,0 +1,137 @@
+/* Created by Artisteer v4.1.0.59782 */
+
+.clearfix {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+
+.enversanli-textblock > div {
+   display: block;
+   line-height: normal;
+   zoom: 1;
+}
+
+.enversanli-header
+{
+   z-index: 1;
+   background-image: [headerimage];
+   background-position: [headerposition];
+}
+
+#enversanli-header-bg 
+{
+   display: none;
+}
+
+.enversanli-hmenu>li, .enversanli-hmenu>li>a
+{
+   display: inline !important;
+   zoom: 1;
+   float: none !important;
+   vertical-align: top;
+}
+ul.enversanli-hmenu, ul.enversanli-hmenu ul {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+#enversanli-hmenu-bg 
+{
+   display: none;
+}
+
+ul.enversanli-hmenu>li:first-child {
+   padding-right:1px;
+}
+ul.enversanli-hmenu>li{
+   zoom:expression(runtimeStyle.zoom=1,insertBefore(document.createElement('span'),firstChild).className='enversanli-hmenu-separator');
+}
+ul.enversanli-hmenu>li>span.enversanli-hmenu-separator
+{
+   position:absolute;
+   display: block;
+   top:0;
+   left:  -1px;
+   width: 1px;
+   height: 33px;
+   background: url('images/menuseparator.png') center center no-repeat;
+}
+ul.enversanli-hmenu>li:first-child>span.enversanli-hmenu-separator
+{
+   display:none;
+}
+
+ul.enversanli-hmenu ul, .desktop-nav ul.enversanli-hmenu>li.ext:hover>a{
+   background-color: #787878 !important;
+}
+
+.enversanli-content-layout, .enversanli-content-layout-row, .enversanli-layout-cell 
+{
+   display: block;
+   zoom: 1;
+}
+.enversanli-layout-cell
+{
+   position:relative;
+   float: left;
+   clear: right;
+}
+
+input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+* html input[type="text"]
+{
+   margin :0;
+}
+
+form.enversanli-search>input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+form.enversanli-search div>input[type="text"]
+{
+   width: 100%;
+}
+
+* html form.enversanli-search>input[type="text"] 
+{
+   margin :0;
+}
+
+.enversanli-postcontent {
+   height: 1%;
+}
+
+.close-alt, .arrow-right-alt, .arrow-left-alt {
+   display: block !important;
+}
+.cw, .ccw {
+   display: none !important;
+}
+
+.enversanli-sidebar1 
+{
+   width: auto;
+   float:none;
+   background: none !important;
+   border: none !important;
+   zoom:expression(runtimeStyle.zoom=1, parentNode.parentNode.insertBefore(document.createElement('div'),parentNode.parentNode.firstChild).className='enversanli-sidebar1-bg' + (className.indexOf('enversanli-sidebar1-fix') == -1 ? '' : ' enversanli-sidebar1-bg-fix' ));
+}
+
+.enversanli-sidebar1-bg 
+{
+   border-left:1px dotted #636363;
+   position:absolute;
+   z-index:-2;
+   direction: ltr;
+   right:  0;
+   bottom:0;
+   top:0;
+   width: 225px;
+   overflow:hidden;
+   display:block;
+}
+
